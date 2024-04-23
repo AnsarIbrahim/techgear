@@ -8,17 +8,14 @@ const Footer = () => {
     <div className="bg-custom-blue text-white pb-20 pt-5 px-10 text-left">
       <div className="md:flex items-center md:w-[60%] justify-between font-space-grotesk text-sm flex-col md:flex-row">
         {Object.keys(footerLink).map((key) => (
-          <div
-            key={key}
-            className="flex-col mb-10 md:mb-0
-          "
-          >
+          <div key={key} className="flex-col mb-10 md:mb-0">
             <h3 className="mb-2 text-white text-sm">{key}</h3>
             {footerLink[key].links.map((link, index) => (
-              <div className="flex-col mb-1 text-xs text-custom-text">
-                <a key={index} href={link.href}>
-                  {link.link}
-                </a>
+              <div
+                key={index}
+                className="flex-col mb-1 text-xs text-custom-text"
+              >
+                <a href={link.href}>{link.link}</a>
               </div>
             ))}
           </div>
