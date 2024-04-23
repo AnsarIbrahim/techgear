@@ -131,13 +131,13 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Ansar Ibrahim**
 
-- GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
-- Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
-- LinkedIn: [Ansar Ibrahim](https://linkedin.com/in/ansar-ibrahim/)
+- [GitHub](https://github.com/AnsarIbrahim)
+- [Twitter](https://twitter.com/ansaradheeb)
+- [LinkedIn](https://linkedin.com/in/ansar-ibrahim/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
